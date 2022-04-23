@@ -1,0 +1,34 @@
+{
+    "name": "nguyenvannhat2102/mypackage123",
+    "description": "mypackage123",
+    "keywords": [
+        "mypackage123"
+    ],
+    "authors": [
+        {
+            "name": "nguyenvannhat2102",
+            "email": "nguyenvannhat21022002@gmail.com"
+        }
+    ],
+    "license": "MIT",
+    "require": {
+    },
+    "require-dev": {
+    },
+    "autoload": {
+        "psr-4": {
+            "nguyenvannhat2102\\Mypackage\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "classmap": [
+
+        ]
+    },
+    "scripts": {
+    },
+    "minimum-stability": "dev",
+    "config": {
+        "preferred-install": "dist"
+    }
+}
